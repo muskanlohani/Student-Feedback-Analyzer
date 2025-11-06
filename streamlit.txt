@@ -1,0 +1,8 @@
+GEMINI_API_KEY = "AIzaSyCg34WJEa9TUBPqjPDN35mZXGtKsvKDAYU"
+
+[database]
+DB_HOST = "yamanote.proxy.rlwy.net"
+DB_PORT = "34745"
+DB_USER = "root"
+DB_PASSWORD = "arWroVWaCRMBstGyMolVlAqdTRcXUtSy"
+DB_NAME = "railway"
