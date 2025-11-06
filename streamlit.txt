@@ -1,8 +1,9 @@
 GEMINI_API_KEY = "AIzaSyCg34WJEa9TUBPqjPDN35mZXGtKsvKDAYU"
 
 [database]
-DB_HOST = "yamanote.proxy.rlwy.net"
-DB_PORT = "34745"
+DB_HOST = "maglev.proxy.rlwy.net"
+DB_PORT = "58167"
 DB_USER = "root"
-DB_PASSWORD = "arWroVWaCRMBstGyMolVlAqdTRcXUtSy"
+DB_PASSWORD = "SAxRsuKWhFWthugknLZocdzjOaSXxqSm"
 DB_NAME = "railway"
+
